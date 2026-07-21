@@ -1,0 +1,7 @@
+Archives/
+Projects/
+Images/
+*.exe
+*.zip
+*.jpg
+passwords.json
